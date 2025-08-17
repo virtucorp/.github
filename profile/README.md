@@ -13,6 +13,6 @@ Learn more here at [virtucorp/Virtutorture.](https://github.com/virtucorp/virtut
 
 ## Follow our Progress
 
-- [@PunchablePlushie Channel](https://github.com/virtucorp/virtutorture)
+- [@PunchablePlushie Channel]([https://www.youtube.com/@punchableplushie)
 
 🪢💥
