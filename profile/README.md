@@ -1,4 +1,4 @@
-![Very Cool Banner](banner.png)
+![Very Cool Banner](../banner.png)
 
 Development studio behind Vir**two**torture *(Virtutorture 2)*
 
