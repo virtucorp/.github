@@ -1,18 +1,19 @@
-![Very Cool Banner](../banner.png)
+![virtucorp. banner](../banner.png)
 
-Development studio behind Vir**two**torture *(Virtutorture 2)*
+Development studio behind VIR**TWO**TORTURE *(Virtutorture 2)*
 
-> Sounds like corporate but it isn't
+> we know it sounds corporate (it isn't we promise 🙏)
 
-## Virtwotorture
+## VIRTUTORTURE
 
-Made in ULTRAKILL™ Sandbox, Vir**two**torture is a challenging map with combat gimmicks all around
-the map with different endings with the constant threat of virtues.
+Made entirely within ULTRAKILL's Sandbox, VIR**TWO**TORTURE is a challenging custom level with a
+focus on platforming and avoiding the constant threat of Virtues
 
-Learn more here at [virtucorp/Virtutorture.](https://github.com/virtucorp/virtutorture)
+Learn more at [virtucorp/Virtutorture.](https://github.com/virtucorp/virtutorture)
 
 ## Follow our Progress
 
-- [@PunchablePlushie Channel](https://www.youtube.com/@punchableplushie)
+- [@PunchablePlushie Channel](https://github.com/virtucorp/virtutorture)
 
+whip crack
 🪢💥
